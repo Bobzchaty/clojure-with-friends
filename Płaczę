@@ -1,0 +1,10 @@
+Próbuj tak to zrobić
+
+
+
+(def map1 [1 2 3]
+  def map2 [2 1 0])
+(Math/pow [map1 map2])
+  
+  
+  dostaj info Wrong number of arguments (6)
